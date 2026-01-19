@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@enact/cli": "^3.0.2",
+    "@enact/cli": "^7.2.1",
     "@enact/core": "^3.0.0",
     "@enact/i18n": "^3.0.0",
     "@enact/moonstone": "^3.0.0",
